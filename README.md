@@ -49,10 +49,8 @@ This project aims to develop an air quality monitoring data logger using an SCD4
 5. Incorporate additional sensors for more comprehensive environmental monitoring.
 
 ## Contributors
+Asfandyar Ali
 
-- [Your Name]
-- [Contributor 2]
-- [Contributor 3]
 
 ## License
 
