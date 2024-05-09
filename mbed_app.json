@@ -1,0 +1,14 @@
+{
+    "target_overrides": {
+        "*": {
+            "sd.SPI_MOSI": "D11",
+            "sd.SPI_MISO": "D12",
+            "sd.SPI_CLK": "D13",
+            "sd.SPI_CS": "D10",
+            "target.components_add": ["SD"],
+            "platform.stdio-baud-rate": 115200,
+            "platform.stdio-buffered-serial": 1,
+            "target.printf_lib": "std"
+        }
+    }
+}
